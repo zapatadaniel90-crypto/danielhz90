@@ -22,9 +22,9 @@ Apasionado por el desarrollo limpio, el aprendizaje continuo y la aplicación de
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zapatadaniel90-cripto_GITHUB&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danielhz90 GITHUB&show_icons=true&theme=dark)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=zapatadaniel90-cripto_GITHUB&layout=compact&theme=dark)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhz90_GITHUB&layout=compact&theme=dark)
 
 ---
 
